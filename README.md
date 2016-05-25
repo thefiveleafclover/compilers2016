@@ -1,6 +1,4 @@
-Officialy made by Paulo Ritto ([@pFnX] (https://github.com/pFnX)) and by António Tavares ([@thefiveleafclover] (https://github.com/thefiveleafclover)), for the 2015/2016 Compilers course @ IST
-
-Theoratically made by all this repo's collaborators (please check the appropriate page). This is also their work.
+Made by Paulo Ritto ([@pFnX] (https://github.com/pFnX)) and by António Tavares ([@thefiveleafclover] (https://github.com/thefiveleafclover)), for the 2015/2016 Compilers course @ IST
 
 Tools will be added in the near future
 
